@@ -1,3 +1,5 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/soumy-jain)
+
 - 👋 Hi, I’m @soumy-jain
 - 👀 I’m interested in Competitive Programming
 - 🌱 I’m currently learning Web Developement.
