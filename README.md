@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/soumy-jain)
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.stopstalk.com/user/profile/soumyjain)
 
 - 👋 Hi, I’m @soumy-jain
 - 👀 I’m interested in Competitive Programming
